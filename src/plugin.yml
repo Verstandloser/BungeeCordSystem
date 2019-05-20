@@ -1,0 +1,4 @@
+name: BungeeCord
+version: 1.0
+author: Julian
+main: net.tropisch.bungee.main.Main
